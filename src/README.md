@@ -4,9 +4,9 @@ layout: BlogHome
 icon: house
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: HyperCode
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: Ctrl+C Ctrl+V
 projects:
   - icon: folder-open
     name: 项目名称
